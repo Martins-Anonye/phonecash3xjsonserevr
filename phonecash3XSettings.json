@@ -2,11 +2,18 @@
   "AdminSettings":{
 "GoogleSignInLink":"hhhjhj",
 
-"ClassnameForEmailInputTextElement":"gggagsga",
-"ClassnameForEmailInputButtonElement":"cc",
+"ClassNameForEmailInputTextElement":"gggagsga",
+"ClassNameForEmailInputButtonElement":"cc",
 
-"ClassnameForPasswordnputTextElement":"ssss",
-"ClassnameForPasswrdInputButtonElement":"bbbb"
+"IDnameForEmailInputTextElement":"identifierId",
+"IDNameForEmailInputButtonElement":"cc",
+
+
+"ClassNameForPasswordnputTextElement":"ssss",
+"ClassNameForPasswrdInputButtonElement":"bbbb"
 
 }
   }
+
+
+
