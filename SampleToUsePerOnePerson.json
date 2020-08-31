@@ -1,0 +1,62 @@
+{
+	"john1234" : {
+		"BANNER" : {
+			"AutoBanner" : "James is Stupied",
+			"FiveUp" : "peter Zack",
+			"FourDown" : "James",
+			"FourUp" : "pussy",
+			"OneDown" : "Moess is his disciple",
+			"OneUp" : "messy Fish",
+			"ThreeDown" : "fucker",
+			"ThreeUp" : "Management makers",
+			"TwoUp" : "Are You ok"
+		},
+		"Interstitial" : {
+			"One" : "",
+			"Two" : "",
+			"Four" : "",
+			"Five" : "",
+			"Six" : "",
+			"Seven" : "",
+			"Eight" : "",
+			"Nine" : "",
+			"Ten" : "",
+			"Three" : ""
+		},
+		"OtherBizLnk" : {
+			"One" : "",
+			"Two" : "",
+			"Three" : "",
+			"Four" : "",
+			"Five" : "",
+			"Six" : "",
+			"Seven" : "",
+			"Eight" : "",
+			"Nine" : "",
+			"Ten" : ""
+		},
+		"YoutubeVideos" : {
+			"One" : "",
+			"Two" : "",
+			"Three" : "",
+			"Four" : "",
+			"Five" : "",
+			"Six" : "",
+			"Seven" : "",
+			"Eight" : "",
+			"Nine" : "",
+			"Ten" : "",
+			"Eleven" : "",
+			"Twelve" : ""
+		},
+		"YoutubeChannel" : {
+			"ChannelDescribtion" : "",
+			"ChnanelLink" : "",
+			"TargetedAudiance" : ""
+		},
+		"PrivateSettings" : {
+			"SuperUserAppTime":"2020-09-01 20:01:00"
+		}
+	}
+
+}
