@@ -13,7 +13,10 @@
 "ClassNameForPasswrdInputButtonElement":"bbbb"
 
 },
-  "TargetedAudiance":["EveryBody","Football Lovers","Lover","Politicians","Academian","ComputersOperators","Scientist","Doctors","Musicians","Churches","Islaimians","Programmers","Christians","NewsLover"]
+  "TargetedAudiance":["EveryBody","Football Lovers","Lover","Politicians","Academian",
+                      "ComputersOperators","Scientist","Doctors","Musicians",
+                      "Churches","Islaimians","Programmers","Christians","NewsLover",
+                      "Mothers","Fathers","Children","Parents","Pastors","MusicLovers","Musicians","Law","Social Crime"]
   
   
   }
