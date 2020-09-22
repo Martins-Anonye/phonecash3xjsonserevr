@@ -23,18 +23,7 @@
 			"Ten" : "",
 			"Three" : ""
 		},
-		"OtherBizLnk" : {
-			"One" : "",
-			"Two" : "",
-			"Three" : "",
-			"Four" : "",
-			"Five" : "",
-			"Six" : "",
-			"Seven" : "",
-			"Eight" : "",
-			"Nine" : "",
-			"Ten" : ""
-		},
+		
 		"YoutubeVideos" : {
 			"One" : "",
 			"Two" : "",
@@ -49,11 +38,25 @@
 			"Eleven" : "",
 			"Twelve" : ""
 		},
-		"YoutubeChannel" : {
+		"OtherBizLnk_YoutubeChannel_Array":[
+		 {"Type":"OtherBizLnk" ,
+			"One" : "",
+			"Two" : "",
+			"Three" : "",
+			"Four" : "",
+			"Five" : "",
+			"Six" : "",
+			"Seven" : "",
+			"Eight" : "",
+			"Nine" : "",
+			"Ten" : ""
+		},
+		 {"Type":"YoutubeChannel" ,
 			"ChannelDescribtion" : "",
 			"ChnanelLink" : "",
 			"TargetedAudiance" : ""
-		},
+		}
+			],
 		"PrivateSettings" : {
 			"SuperUserAppTime":"2020-09-01 20:01:00"
 		}
