@@ -1,6 +1,7 @@
-{
-	"john1234" : {
-		"BANNER_Interstitial_OtherBizLnk_YoutubeVideos_YoutubeChannel_PrivateSettings_Array":[
+[
+	{
+	
+		"john1234":[
 		{"Type":"BANNER",
 			"AutoBanner" : "James is Stupied",
 			"FiveUp" : "peter Zack",
@@ -62,6 +63,27 @@
 		}
 			]
 		
+	},
+	
+	
+	{
+	"Peter12345":[
+           ........
+         ]
+	
+	},
+	
+	
+	
+	{
+	"FathersJourney12345":[
+           ........
+         ]
+	
 	}
 
-}
+
+	
+	
+	
+]
