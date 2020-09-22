@@ -1,6 +1,7 @@
 {
 	"john1234" : {
-		"BANNER" : {
+		"BANNER_Interstitial_OtherBizLnk_YoutubeVideos_YoutubeChannel_Array":[
+		{"Type":"BANNER",
 			"AutoBanner" : "James is Stupied",
 			"FiveUp" : "peter Zack",
 			"FourDown" : "James",
@@ -11,7 +12,7 @@
 			"ThreeUp" : "Management makers",
 			"TwoUp" : "Are You ok"
 		},
-		"Interstitial" : {
+		{"Type":"Interstitial",
 			"One" : "",
 			"Two" : "",
 			"Four" : "",
@@ -23,8 +24,19 @@
 			"Ten" : "",
 			"Three" : ""
 		},
-		
-		"YoutubeVideos" : {
+		{"Type":"OtherBizLnk" ,
+			"One" : "",
+			"Two" : "",
+			"Three" : "",
+			"Four" : "",
+			"Five" : "",
+			"Six" : "",
+			"Seven" : "",
+			"Eight" : "",
+			"Nine" : "",
+			"Ten" : ""
+		},
+		 {"Type":"YoutubeVideos",
 			"One" : "",
 			"Two" : "",
 			"Three" : "",
@@ -38,28 +50,18 @@
 			"Eleven" : "",
 			"Twelve" : ""
 		},
-		"OtherBizLnk_YoutubeChannel_Array":[
-		 {"Type":"OtherBizLnk" ,
-			"One" : "",
-			"Two" : "",
-			"Three" : "",
-			"Four" : "",
-			"Five" : "",
-			"Six" : "",
-			"Seven" : "",
-			"Eight" : "",
-			"Nine" : "",
-			"Ten" : ""
-		},
+		
+		 
 		 {"Type":"YoutubeChannel" ,
 			"ChannelDescribtion" : "",
 			"ChnanelLink" : "",
 			"TargetedAudiance" : ""
-		}
-			],
-		"PrivateSettings" : {
+		  },
+	       {"Type":"PrivateSettings" ,
 			"SuperUserAppTime":"2020-09-01 20:01:00"
 		}
+			]
+		
 	}
 
 }
