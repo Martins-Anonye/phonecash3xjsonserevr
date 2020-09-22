@@ -24,18 +24,7 @@
 			"Ten" : "krjgkek10",
 			"Three" : "njnjtn3"
 		},
-		"OtherBizLnk" : {
-			"One" : "BZ1",
-			"Two" : "BZ2",
-			"Three" : "BZ3",
-			"Four" : "BZ4",
-			"Five" : "BZ5",
-			"Six" : "BZ6",
-			"Seven" : "BZ7",
-			"Eight" : "BZ8",
-			"Nine" : "BZ9",
-			"Ten" : "BZ10"
-		},
+		
 		"YoutubeVideos" : {
 			"One" : "YV1",
 			"Two" : "YV2",
@@ -50,11 +39,25 @@
 			"Eleven" : "YV11",
 			"Twelve" : "YV12"
 		},
-		"YoutubeChannel" : {
+		"OtherBizLnk_YoutubeChannel_Array":[
+		 {"Type":"OtherBizLnk" ,
+			"One" : "BZ1",
+			"Two" : "BZ2",
+			"Three" : "BZ3",
+			"Four" : "BZ4",
+			"Five" : "BZ5",
+			"Six" : "BZ6",
+			"Seven" : "BZ7",
+			"Eight" : "BZ8",
+			"Nine" : "BZ9",
+			"Ten" : "BZ10"
+		},
+		 {"Type":"YoutubeChannel" ,
 			"ChannelDescribtion" : "CD1",
 			"ChnanelLink" : "CL1",
 			"TargetedAudiance" : "TA1"
-		},
+		}
+			],
 		"PrivateSettings" : {
 			"SuperUserAppTime" : "2020-09-01 20:01:00"
 		}
@@ -83,18 +86,7 @@
 			"Ten" : "krjgkek10",
 			"Three" : "njnjtn3"
 		},
-		"OtherBizLnk" : {
-			"One" : "BZ1",
-			"Two" : "BZ2",
-			"Three" : "BZ3",
-			"Four" : "BZ4",
-			"Five" : "BZ5",
-			"Six" : "BZ6",
-			"Seven" : "BZ7",
-			"Eight" : "BZ8",
-			"Nine" : "BZ9",
-			"Ten" : "BZ10"
-		},
+		
 		"YoutubeVideos" : {
 			"One" : "YV1",
 			"Two" : "YV2",
@@ -109,11 +101,25 @@
 			"Eleven" : "YV11",
 			"Twelve" : "YV12"
 		},
-		"YoutubeChannel" : {
+		"OtherBizLnk_YoutubeChannel_Array":[
+		 {"Type":"OtherBizLnk" ,
+			"One" : "BZ1",
+			"Two" : "BZ2",
+			"Three" : "BZ3",
+			"Four" : "BZ4",
+			"Five" : "BZ5",
+			"Six" : "BZ6",
+			"Seven" : "BZ7",
+			"Eight" : "BZ8",
+			"Nine" : "BZ9",
+			"Ten" : "BZ10"
+		},
+		 {"Type":"YoutubeChannel" ,
 			"ChannelDescribtion" : "CD1",
 			"ChnanelLink" : "CL1",
 			"TargetedAudiance" : "TA1"
-		},
+		}
+			],
 		"PrivateSettings" : {
 			"SuperUserAppTime" : "2020-09-01 20:01:00"
 		}
@@ -142,18 +148,7 @@
 			"Ten" : "krjgkek10",
 			"Three" : "njnjtn3"
 		},
-		"OtherBizLnk" : {
-			"One" : "BZ1",
-			"Two" : "BZ2",
-			"Three" : "BZ3",
-			"Four" : "BZ4",
-			"Five" : "BZ5",
-			"Six" : "BZ6",
-			"Seven" : "BZ7",
-			"Eight" : "BZ8",
-			"Nine" : "BZ9",
-			"Ten" : "BZ10"
-		},
+		
 		"YoutubeVideos" : {
 			"One" : "YV1",
 			"Two" : "YV2",
@@ -168,11 +163,25 @@
 			"Eleven" : "YV11",
 			"Twelve" : "YV12"
 		},
-		"YoutubeChannel" : {
+		"OtherBizLnk_YoutubeChannel_Array":[
+		 {"Type":"OtherBizLnk" ,
+			"One" : "BZ1",
+			"Two" : "BZ2",
+			"Three" : "BZ3",
+			"Four" : "BZ4",
+			"Five" : "BZ5",
+			"Six" : "BZ6",
+			"Seven" : "BZ7",
+			"Eight" : "BZ8",
+			"Nine" : "BZ9",
+			"Ten" : "BZ10"
+		},
+		 {"Type":"YoutubeChannel" ,
 			"ChannelDescribtion" : "CD1",
 			"ChnanelLink" : "CL1",
 			"TargetedAudiance" : "TA1"
-		},
+		}
+			],
 		"PrivateSettings" : {
 			"SuperUserAppTime" : "2020-09-01 20:01:00"
 		}
