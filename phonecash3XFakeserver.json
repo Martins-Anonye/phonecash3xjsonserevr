@@ -1,189 +1,270 @@
+[
+	{
+		"john1234" : [
+			{
+				"Type" : "BANNER",
+				"AutoBanner" : "James is Stupied",
+				"FiveUp" : "peter Zack",
+				"FourDown" : "James",
+				"FourUp" : "pussy",
+				"OneDown" : "Moess is his disciple",
+				"OneUp" : "messy Fish",
+				"ThreeDown" : "fucker",
+				"ThreeUp" : "Management makers",
+				"TwoUp" : "Are You ok"
+			},
+			{
+				"Type" : "Interstitial",
+				"One" : "int1",
+				"Two" : "int2",
+				"Three" : "int3",
+				"Four" : "int4",
+				"Five" : "int5",
+				"Six" : "int6",
+				"Seven" : "int7",
+				"Eight" : "int8",
+				"Nine" : "in9",
+				"Ten" : "int10"
+			},
+			{
+				"Type" : "OtherBizLnk",
+				"One" : "Other1",
+				"Two" : "other2",
+				"Three" : "other3",
+				"Four" : "other4",
+				"Five" : "other5",
+				"Six" : "other6",
+				"Seven" : "other7",
+				"Eight" : "other8",
+				"Nine" : "other9",
+				"Ten" : "other10"
+			},
+			{
+				"Type" : "YoutubeVideos",
+				"One" : "Ytv1",
+				"Two" : "Ytv2",
+				"Three" : "Ytv3",
+				"Four" : "Ytv4",
+				"Five" : "Ytv5",
+				"Six" : "Ytv6",
+				"Seven" : "Ytv7",
+				"Eight" : "Ytv8",
+				"Nine" : "Ytv9",
+				"Ten" : "Ytv10",
+				"Eleven" : "Ytv11",
+				"Twelve" : "Ytv12"
+			},
+			{
+				"Type" : "YoutubeChannel",
+				"ChannelDescribtion" : "Cd1",
+				"ChnanelLink" : "Cl1",
+				"TargetedAudiance" : "TA1"
+			},
+			{
+				"Type" : "PrivateSettings",
+				"SuperUserAppTime" : "2020-09-01 20:01:00"
+			}
+		]
+},{
+		"peter1234" : [
+			{
+				"Type" : "BANNER",
+				"AutoBanner" : "Jesus is loard",
+				"FiveUp" : "People in the word",
+				"FourDown" : "Fly",
+				"FourUp" : "pussy",
+				"OneDown" : "Moess is his disciple",
+				"OneUp" : "messy Fish",
+				"ThreeDown" : "fucker",
+				"ThreeUp" : "Management makers",
+				"TwoUp" : "Are You ok"
+			},
+			{
+				"Type" : "Interstitial",
+				"One" : "int1",
+				"Two" : "int2",
+				"Three" : "int3",
+				"Four" : "int4",
+				"Five" : "int5",
+				"Six" : "int6",
+				"Seven" : "int7",
+				"Eight" : "int8",
+				"Nine" : "in9",
+				"Ten" : "int10"
+			},
+			{
+				"Type" : "OtherBizLnk",
+				"One" : "Other1",
+				"Two" : "other2",
+				"Three" : "other3",
+				"Four" : "other4",
+				"Five" : "other5",
+				"Six" : "other6",
+				"Seven" : "other7",
+				"Eight" : "other8",
+				"Nine" : "other9",
+				"Ten" : "other10"
+			},
+			{
+				"Type" : "YoutubeVideos",
+				"One" : "Ytv1",
+				"Two" : "Ytv2",
+				"Three" : "Ytv3",
+				"Four" : "Ytv4",
+				"Five" : "Ytv5",
+				"Six" : "Ytv6",
+				"Seven" : "Ytv7",
+				"Eight" : "Ytv8",
+				"Nine" : "Ytv9",
+				"Ten" : "Ytv10",
+				"Eleven" : "Ytv11",
+				"Twelve" : "Ytv12"
+			},
+			{
+				"Type" : "YoutubeChannel",
+				"ChannelDescribtion" : "Cdd",
+				"ChnanelLink" : "Cdl",
+				"TargetedAudiance" : "TA1"
+			},
+			{
+				"Type" : "PrivateSettings",
+				"SuperUserAppTime" : "2020-09-01 20:01:00"
+			}
+		]
 
+},
+ {
+		"Philip1234" : [
+			{
+				"Type" : "BANNER",
+				"AutoBanner" : "Jesus is loard",
+				"FiveUp" : "Philip1234 in the word",
+				"FourDown" : "Fly",
+				"FourUp" : "pussy",
+				"OneDown" : "Moess is his disciple",
+				"OneUp" : "messy Fish",
+				"ThreeDown" : "fucker",
+				"ThreeUp" : "Management makers",
+				"TwoUp" : "Are You ok"
+			},
+			{
+				"Type" : "Interstitial",
+				"One" : "int1",
+				"Two" : "int2",
+				"Three" : "int3",
+				"Four" : "int4",
+				"Five" : "int5",
+				"Six" : "int6",
+				"Seven" : "int7",
+				"Eight" : "int8",
+				"Nine" : "in9",
+				"Ten" : "int10"
+			},
+			{
+				"Type" : "OtherBizLnk",
+				"One" : "Other1",
+				"Two" : "other2",
+				"Three" : "other3",
+				"Four" : "other4",
+				"Five" : "other5",
+				"Six" : "other6",
+				"Seven" : "other7",
+				"Eight" : "other8",
+				"Nine" : "other9",
+				"Ten" : "other10"
+			},
+			{
+				"Type" : "YoutubeVideos",
+				"One" : "Ytv1",
+				"Two" : "Ytv2",
+				"Three" : "Ytv3",
+				"Four" : "Ytv4",
+				"Five" : "Ytv5",
+				"Six" : "Ytv6",
+				"Seven" : "Ytv7",
+				"Eight" : "Ytv8",
+				"Nine" : "Ytv9",
+				"Ten" : "Ytv10",
+				"Eleven" : "Ytv11",
+				"Twelve" : "Ytv12"
+			},
+			{
+				"Type" : "YoutubeChannel",
+				"ChannelDescribtion" : "Cdd",
+				"ChnanelLink" : "Cdl",
+				"TargetedAudiance" : "TA1"
+			},
+			{
+				"Type" : "PrivateSettings",
+				"SuperUserAppTime" : "2020-09-01 20:01:00"
+			}
+		]
+},
 {
-	"john1234" : {
-		"BANNER" : {
-			"AutoBanner" : "James is Stupied",
-			"FiveUp" : "peter Zack",
-			"FourDown" : "James",
-			"FourUp" : "pussy",
-			"OneDown" : "Moess is his disciple",
-			"OneUp" : "messy Fish",
-			"ThreeDown" : "fucker",
-			"ThreeUp" : "Management makers",
-			"TwoUp" : "Are You ok"
-		},
-		"Interstitial" : {
-			"One" : "joies1",
-			"Two" : "fagsggh2",
-			"Four" : "bavshwe4",
-			"Five" : "jshshge5",
-			"Six" : "orktlrkrlt6",
-			"Seven" : "avhdshs7",
-			"Eight" : "jieirjie8",
-			"Nine" : "lslagfls9",
-			"Ten" : "krjgkek10",
-			"Three" : "njnjtn3"
-		},
-		
-		"YoutubeVideos" : {
-			"One" : "YV1",
-			"Two" : "YV2",
-			"Three" : "YV3",
-			"Four" : "YV4",
-			"Five" : "YV5",
-			"Six" : "YV6",
-			"Seven" : "YV7",
-			"Eight" : "YV8",
-			"Nine" : "YV9",
-			"Ten" : "YV10",
-			"Eleven" : "YV11",
-			"Twelve" : "YV12"
-		},
-		"OtherBizLnk_YoutubeChannel_Array":[
-		 {"Type":"OtherBizLnk" ,
-			"One" : "BZ1",
-			"Two" : "BZ2",
-			"Three" : "BZ3",
-			"Four" : "BZ4",
-			"Five" : "BZ5",
-			"Six" : "BZ6",
-			"Seven" : "BZ7",
-			"Eight" : "BZ8",
-			"Nine" : "BZ9",
-			"Ten" : "BZ10"
-		},
-		 {"Type":"YoutubeChannel" ,
-			"ChannelDescribtion" : "CD1",
-			"ChnanelLink" : "CL1",
-			"TargetedAudiance" : "TA1"
-		}
-			],
-		"PrivateSettings" : {
-			"SuperUserAppTime" : "2020-09-01 20:01:00"
-		}
-	},
-	"Peter1234" : {
-		"BANNER" : {
-			"AutoBanner" : "James is Stupied",
-			"FiveUp" : "peter Zack",
-			"FourDown" : "James",
-			"FourUp" : "pussy",
-			"OneDown" : "Moess is his disciple",
-			"OneUp" : "messy Fish",
-			"ThreeDown" : "fucker",
-			"ThreeUp" : "Management makers",
-			"TwoUp" : "Are You ok"
-		},
-		"Interstitial" : {
-			"One" : "joies1",
-			"Two" : "fagsggh2",
-			"Four" : "bavshwe4",
-			"Five" : "jshshge5",
-			"Six" : "orktlrkrlt6",
-			"Seven" : "avhdshs7",
-			"Eight" : "jieirjie8",
-			"Nine" : "lslagfls9",
-			"Ten" : "krjgkek10",
-			"Three" : "njnjtn3"
-		},
-		
-		"YoutubeVideos" : {
-			"One" : "YV1",
-			"Two" : "YV2",
-			"Three" : "YV3",
-			"Four" : "YV4",
-			"Five" : "YV5",
-			"Six" : "YV6",
-			"Seven" : "YV7",
-			"Eight" : "YV8",
-			"Nine" : "YV9",
-			"Ten" : "YV10",
-			"Eleven" : "YV11",
-			"Twelve" : "YV12"
-		},
-		"OtherBizLnk_YoutubeChannel_Array":[
-		 {"Type":"OtherBizLnk" ,
-			"One" : "BZ1",
-			"Two" : "BZ2",
-			"Three" : "BZ3",
-			"Four" : "BZ4",
-			"Five" : "BZ5",
-			"Six" : "BZ6",
-			"Seven" : "BZ7",
-			"Eight" : "BZ8",
-			"Nine" : "BZ9",
-			"Ten" : "BZ10"
-		},
-		 {"Type":"YoutubeChannel" ,
-			"ChannelDescribtion" : "CD1",
-			"ChnanelLink" : "CL1",
-			"TargetedAudiance" : "TA1"
-		}
-			],
-		"PrivateSettings" : {
-			"SuperUserAppTime" : "2020-09-01 20:01:00"
-		}
-	},
-	"Ada1234" : {
-		"BANNER" : {
-			"AutoBanner" : "James is Stupied",
-			"FiveUp" : "peter Zack",
-			"FourDown" : "James",
-			"FourUp" : "pussy",
-			"OneDown" : "Moess is his disciple",
-			"OneUp" : "messy Fish",
-			"ThreeDown" : "fucker",
-			"ThreeUp" : "Management makers",
-			"TwoUp" : "Are You ok"
-		},
-		"Interstitial" : {
-			"One" : "joies1",
-			"Two" : "fagsggh2",
-			"Four" : "bavshwe4",
-			"Five" : "jshshge5",
-			"Six" : "orktlrkrlt6",
-			"Seven" : "avhdshs7",
-			"Eight" : "jieirjie8",
-			"Nine" : "lslagfls9",
-			"Ten" : "krjgkek10",
-			"Three" : "njnjtn3"
-		},
-		
-		"YoutubeVideos" : {
-			"One" : "YV1",
-			"Two" : "YV2",
-			"Three" : "YV3",
-			"Four" : "YV4",
-			"Five" : "YV5",
-			"Six" : "YV6",
-			"Seven" : "YV7",
-			"Eight" : "YV8",
-			"Nine" : "YV9",
-			"Ten" : "YV10",
-			"Eleven" : "YV11",
-			"Twelve" : "YV12"
-		},
-		"OtherBizLnk_YoutubeChannel_Array":[
-		 {"Type":"OtherBizLnk" ,
-			"One" : "BZ1",
-			"Two" : "BZ2",
-			"Three" : "BZ3",
-			"Four" : "BZ4",
-			"Five" : "BZ5",
-			"Six" : "BZ6",
-			"Seven" : "BZ7",
-			"Eight" : "BZ8",
-			"Nine" : "BZ9",
-			"Ten" : "BZ10"
-		},
-		 {"Type":"YoutubeChannel" ,
-			"ChannelDescribtion" : "CD1",
-			"ChnanelLink" : "CL1",
-			"TargetedAudiance" : "TA1"
-		}
-			],
-		"PrivateSettings" : {
-			"SuperUserAppTime" : "2020-09-01 20:01:00"
-		}
+		"Moses1234" : [
+			{
+				"Type" : "BANNER",
+				"AutoBanner" : "Jesus is loard",
+				"FiveUp" : "Philip1234 in the word",
+				"FourDown" : "Fly",
+				"FourUp" : "pussy",
+				"OneDown" : "Moess is his disciple",
+				"OneUp" : "messy Fish",
+				"ThreeDown" : "fucker",
+				"ThreeUp" : "Management makers",
+				"TwoUp" : "Are You ok"
+			},
+			{
+				"Type" : "Interstitial",
+				"One" : "int1",
+				"Two" : "int2",
+				"Three" : "int3",
+				"Four" : "int4",
+				"Five" : "int5",
+				"Six" : "int6",
+				"Seven" : "int7",
+				"Eight" : "int8",
+				"Nine" : "in9",
+				"Ten" : "int10"
+			},
+			{
+				"Type" : "OtherBizLnk",
+				"One" : "Other1",
+				"Two" : "other2",
+				"Three" : "other3",
+				"Four" : "other4",
+				"Five" : "other5",
+				"Six" : "other6",
+				"Seven" : "other7",
+				"Eight" : "other8",
+				"Nine" : "other9",
+				"Ten" : "other10"
+			},
+			{
+				"Type" : "YoutubeVideos",
+				"One" : "Ytv1",
+				"Two" : "Ytv2",
+				"Three" : "Ytv3",
+				"Four" : "Ytv4",
+				"Five" : "Ytv5",
+				"Six" : "Ytv6",
+				"Seven" : "Ytv7",
+				"Eight" : "Ytv8",
+				"Nine" : "Ytv9",
+				"Ten" : "Ytv10",
+				"Eleven" : "Ytv11",
+				"Twelve" : "Ytv12"
+			},
+			{
+				"Type" : "YoutubeChannel",
+				"ChannelDescribtion" : "Cdd",
+				"ChnanelLink" : "Cdl",
+				"TargetedAudiance" : "TA1"
+			},
+			{
+				"Type" : "PrivateSettings",
+				"SuperUserAppTime" : "2020-09-01 20:01:00"
+			}
+		]
 	}
-}
+]
