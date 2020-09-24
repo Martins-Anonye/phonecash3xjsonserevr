@@ -1,25 +1,61 @@
-{
-  "AdminSettings":{
-"GoogleSignInLink":"hhhjhj",
-
-"ClassNameForEmailInputTextElement":"gggagsga",
-"ClassNameForEmailInputButtonElement":"cc",
-
-"IDnameForEmailInputTextElement":"identifierId",
-"IDNameForEmailInputButtonElement":"cc",
-
-
-"ClassNameForPasswordnputTextElement":"ssss",
-"ClassNameForPasswrdInputButtonElement":"bbbb"
-
-},
-  "TargetedAudiance":["EveryBody","Football Lovers","Lover","Politicians","Academian",
-                      "ComputersOperators","Scientist","Doctors","Musicians",
-                      "Churches","Islaimians","Programmers","Christians","NewsLover",
-                      "Mothers","Fathers","Children","Parents","Pastors","MusicLovers","Musicians","Law","Social Crime"]
-  
-  
-  }
-
-
-
+[
+	{
+		"AdminSettings" : [
+			{
+				"GmailSignInLink" : "https://myaccount.google.com/?utm_source=sign_in_no_continue",
+				"ClassNameForEmailInputTextElement" : "gggagsga",
+				"ClassNameForEmailInputButtonElement" : "cc",
+				"IDnameForEmailInputTextElement" : "identifierId",
+				"IDNameForEmailInputButtonElement" : "cc",
+				"ClassNameForPasswordnputTextElement" : "ssss",
+				"ClassNameForPasswrdInputButtonElement" : "bbbb"
+			}
+		]
+	},
+	{
+		"ProfitLevel" : [
+			{
+				"Level" : "Silver",
+				"Desc" : "bbbb",
+				"NumberOfReferalRequired" : "0-5"
+			},
+			{
+				"Level" : "Bromze",
+				"Desc" : "bbbb",
+				"NumberOfReferalRequired" : "5-10"
+			},
+			{
+				"Level" : "Copper",
+				"Desc" : "bbbb",
+				"NumberOfReferalRequired" : "11- above"
+			}
+		]
+	},
+	{
+		"TargetedAudiance" : [
+			"EveryBody",
+			"Football Lovers",
+			"Lover",
+			"Politicians",
+			"Academian",
+			"ComputersOperators",
+			"Scientist",
+			"Doctors",
+			"Musicians",
+			"Churches",
+			"Islaimians",
+			"Programmers",
+			"Christians",
+			"NewsLover",
+			"Mothers",
+			"Fathers",
+			"Children",
+			"Parents",
+			"Pastors",
+			"MusicLovers",
+			"Musicians",
+			"Law",
+			"Social Crime"
+		]
+	}
+]
