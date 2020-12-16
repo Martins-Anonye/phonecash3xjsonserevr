@@ -1,17 +1,25 @@
 [
 	{
 		"SocialMedialNames" : [
-			"https://myaccount.google.com/?utm_source=sign_in_no_continue",
-			"gggagsga",
-			"cc",
-			"identifierId",
-			"cc",
-			"ssss",
-			"bbbb"
+			"Facebook",
+			"twiter",
+			"instergram",
+			"telegram",
+			"ticktalk",
+			"qchat",
+			  "google"
 		]
 	},
 	{
 		"SocialMediaLinks" : [
+			"http://www.facebook.com",
+			"http://www.twiter.com",
+			"http://www.instergram.com",
+			"http://www.telegram.com",
+			"http://www.ticktalk.com",
+			"http://www.qchat.com",
+			"http://www.google.com"
+	
 ]
 	}
 ]
