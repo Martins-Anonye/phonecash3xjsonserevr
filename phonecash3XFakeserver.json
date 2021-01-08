@@ -1,30 +1,28 @@
 [
 	{
-		"john1234" : [
+		"joshnwa9" : [
 			{
 				"Type" : "BANNER",
-				"AutoBanner" : "James is Stupied",
-				"FiveUp" : "peter Zack",
-				"FourDown" : "James",
-				"FourUp" : "pussy",
-				"OneDown" : "Moess is his disciple",
-				"OneUp" : "messy Fish",
-				"ThreeDown" : "fucker",
-				"ThreeUp" : "Management makers",
-				"TwoUp" : "Are You ok"
+				"AutoBanner" : "ca-app-pub-8880644001869511/1855862797",
+				"FiveDown" : "ca-app-pub-8880644001869511/7713542759",
+				"FiveUp" : "ca-app-pub-8880644001869511/2541107124",
+				"FourDown" : "ca-app-pub-8880644001869511/3259292424",
+				"FourUp" : "ca-app-pub-8880644001869511/8142069545",
+				"OneDown" : "ca-app-pub-8880644001869511/3642435807",
+				"OneUp" : "ca-app-pub-8880644001869511/1277731578",
+				"ThreeDown" : "ca-app-pub-8880644001869511/7295891735",
+				"ThreeUp" : "ca-app-pub-8880644001869511/6660810376",
+				"TwoUp" : "ca-app-pub-8880644001869511/1113626769"
+
 			},
 			{
 				"Type" : "Interstitial",
-				"One" : "int1",
-				"Two" : "int2",
-				"Three" : "int3",
-				"Four" : "int4",
-				"Five" : "int5",
-				"Six" : "int6",
-				"Seven" : "int7",
-				"Eight" : "int8",
-				"Nine" : "in9",
-				"Ten" : "int10"
+				 "Five" : "ca-app-pub-8880644001869511/4034647031",
+				"Four" : "ca-app-pub-8880644001869511/6174381751",
+				"One" : "ca-app-pub-8880644001869511/3141477580",
+				"Six" : "ca-app-pub-8880644001869511/5885455767",
+				"Three" : "ca-app-pub-8880644001869511/2137782442",
+				"Two" : "ca-app-pub-8880644001869511/9977895395"
 			},
 			{
 				"Type" : "OtherBizLnk",
@@ -41,24 +39,26 @@
 			},
 			{
 				"Type" : "YoutubeVideos",
-				"One" : "Ytv1",
-				"Two" : "Ytv2",
-				"Three" : "Ytv3",
-				"Four" : "Ytv4",
-				"Five" : "Ytv5",
-				"Six" : "Ytv6",
-				"Seven" : "Ytv7",
-				"Eight" : "Ytv8",
-				"Nine" : "Ytv9",
-				"Ten" : "Ytv10",
-				"Eleven" : "Ytv11",
-				"Twelve" : "Ytv12"
+				 "VideoLinkEight" : "https://youtu.be/EWNrJ6gMEIY?list=PL8QLuwiD_oo2zfJhbGKmT6H3jaUuhDxpj",
+                                 "VideoLinkEleven" : "https://youtu.be/nQSZjJQif0w?list=PL8QLuwiD_oo30oQS-ZPTe_bZW5JMO3xbg",
+				"VideoLinkFive" : "https://youtu.be/DVpKhmAozvo?list=PL8QLuwiD_oo2zfJhbGKmT6H3jaUuhDxpj",
+				"VideoLinkFour" : "https://youtu.be/sJiaeJCfkOo?list=PL8QLuwiD_oo2zfJhbGKmT6H3jaUuhDxpj",
+				"VideoLinkNine" : "https://youtu.be/RkfqpegApDI?list=PL8QLuwiD_oo2zfJhbGKmT6H3jaUuhDxpj",
+				"VideoLinkOne" : "https://youtu.be/tu6dhwpzhRs",
+				"VideoLinkSeven" : "https://youtu.be/uOJL2hM6hS0?list=PL8QLuwiD_oo2zfJhbGKmT6H3jaUuhDxpj",
+				"VideoLinkSix" : "https://youtu.be/hQGwGO5FmgE?list=PL8QLuwiD_oo2zfJhbGKmT6H3jaUuhDxpj",
+				"VideoLinkTen" : "https://youtu.be/a0tUc3Ihafs?list=PL8QLuwiD_oo2zfJhbGKmT6H3jaUuhDxpj",
+				"VideoLinkThree" : "https://youtu.be/wsghDsJWxqA?list=PL8QLuwiD_oo2zfJhbGKmT6H3jaUuhDxpj",
+				"VideoLinkTwelve" : "https://youtu.be/hFxm1fd4M_0?list=PL8QLuwiD_oo30oQS-ZPTe_bZW5JMO3xbg",
+				"VideoLinkTwo" : "https://youtu.be/fM3VheQgOQY?list=PL8QLuwiD_oo2zfJhbGKmT6H3jaUuhDxpj"
+
 			},
 			{
 				"Type" : "YoutubeChannel",
-				"ChannelDescribtion" : "Cd1",
-				"ChnanelLink" : "Cl1",
-				"TargetedAudiance" : "TA1"
+				 "chaneldescription" : "entertainment, funny,sport and educative channel subscribe for more videos",
+				"channellink" : "https://Youtube.com/channel/UC5cZclznpFC6G3L1bai7pw",
+				"targetedAudianc" : "Churches"
+
 			},
 			{
 				"Type" : "PrivateSettings",
