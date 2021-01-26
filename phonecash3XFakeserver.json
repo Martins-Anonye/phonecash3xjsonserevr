@@ -66,31 +66,28 @@
 			}
 		]
 },{
-		"peter1234" : [
+		"anonyelevi1988" : [
 			{
 				"Type" : "BANNER",
-				"AutoBanner" : "Jesus is loard",
-				"FiveUp" : "People in the word",
-				"FourDown" : "Fly",
-				"FourUp" : "pussy",
-				"OneDown" : "Moess is his disciple",
-				"OneUp" : "messy Fish",
-				"ThreeDown" : "fucker",
-				"ThreeUp" : "Management makers",
-				"TwoUp" : "Are You ok"
+				"AutoBanner" : "ca-app-pub-1988448440413276/3605745547",
+				"FiveDown" : "ca-app-pub-1988448440413276/4285753460",
+				"FiveUp" : "ca-app-pub-1988448440413276/5111410660",
+				"FourDown" : "ca-app-pub-1988448440413276/5302982356",
+				"FourUp" : "ca-app-pub-1988448440413276/5468657404",
+				"OneDown" : "ca-app-pub-1988448440413276/8608141850",
+				"OneUp" : "ca-app-pub-1988448440413276/5263793215",
+				"ThreeDown" : "ca-app-pub-1988448440413276/7190779093",
+				"ThreeUp" : "ca-app-pub-1988448440413276/5301970590",
+				"TwoUp" : "ca-app-pub-1988448440413276/5790406828"
 			},
 			{
 				"Type" : "Interstitial",
-				"One" : "int1",
-				"Two" : "int2",
-				"Three" : "int3",
-				"Four" : "int4",
-				"Five" : "int5",
-				"Six" : "int6",
-				"Seven" : "int7",
-				"Eight" : "int8",
-				"Nine" : "in9",
-				"Ten" : "int10"
+				 "Five" : "ca-app-pub-1988448440413276/8803243662",
+				"Four" : "ca-app-pub-1988448440413276/2265755475",
+				"One" : "ca-app-pub-1988448440413276/6778703797",
+				"Six" : "ca-app-pub-1988448440413276/9499347855",
+				"Three" : "ca-app-pub-1988448440413276/1691040403",
+				"Two" : "ca-app-pub-1988448440413276/6971287240"
 			},
 			{
 				"Type" : "OtherBizLnk",
@@ -106,25 +103,28 @@
 				"Ten" : "other10"
 			},
 			{
+				
 				"Type" : "YoutubeVideos",
-				"One" : "Ytv1",
-				"Two" : "Ytv2",
-				"Three" : "Ytv3",
-				"Four" : "Ytv4",
-				"Five" : "Ytv5",
-				"Six" : "Ytv6",
-				"Seven" : "Ytv7",
-				"Eight" : "Ytv8",
-				"Nine" : "Ytv9",
-				"Ten" : "Ytv10",
-				"Eleven" : "Ytv11",
-				"Twelve" : "Ytv12"
+				 "VideoLinkEight" : "https://youtu.be/HNQ3YhjWr-k",
+                                 "VideoLinkEleven" :"https://youtu.be/HNQ3YhjWr-k",
+				"VideoLinkFive" : "https://youtu.be/HNQ3YhjWr-k",
+				"VideoLinkFour" : "https://youtu.be/HNQ3YhjWr-k",
+				"VideoLinkNine" :"https://youtu.be/HNQ3YhjWr-k",
+				"VideoLinkOne" : "https://youtu.be/tu6dhwpzhRs",
+				"VideoLinkSeven" :"https://youtu.be/HNQ3YhjWr-k",
+				"VideoLinkSix" : "https://youtu.be/HNQ3YhjWr-k",
+				"VideoLinkTen" :"https://youtu.be/HNQ3YhjWr-k",
+				"VideoLinkThree" : "https://youtu.be/HNQ3YhjWr-k",
+				"VideoLinkTwelve" :"https://youtu.be/HNQ3YhjWr-k",
+				"VideoLinkTwo" : "https://youtu.be/HNQ3YhjWr-k"
 			},
 			{
 				"Type" : "YoutubeChannel",
-				"ChannelDescribtion" : "Cdd",
-				"ChnanelLink" : "Cdl",
-				"TargetedAudiance" : "TA1"
+				 "YoutubeChannel" : {
+                                  "chaneldescription" : "Best Sports and Movies  Around the World. Best Movies and Sports ever existed including  old , new and latest.",
+                  		 "channellink" : "https://www.youtube.com/channel/UCvKVPLj9wojuMkRrOBd85Og",
+       				 "targetedAudianc" : "EveryBody"
+      },
 			},
 			{
 				"Type" : "PrivateSettings",
