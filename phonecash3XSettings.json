@@ -2,7 +2,7 @@
 	{
 		"AdminSettings" : [
 			{
-				"GmailSignInLink" : "https://myaccount.google.com/?utm_source=sign_in_no_continue",
+				"GmailSignInLink" : "http://www.gmail.com",
 				"ClassNameForEmailInputTextElement" : "gggagsga",
 				"ClassNameForEmailInputButtonElement" : "cc",
 				"IDnameForEmailInputTextElement" : "identifierId",
