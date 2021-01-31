@@ -120,12 +120,12 @@
 			},
 			{
 				"Type" : "YoutubeChannel",
-				 "YoutubeChannel" : {
+			
                                   "chaneldescription" : "Best Sports and Movies  Around the World. Best Movies and Sports ever existed including  old , new and latest.",
                   		 "channellink" : "https://www.youtube.com/channel/UCvKVPLj9wojuMkRrOBd85Og",
        				 "targetedAudianc" : "EveryBody"
-      },
-			},
+             },
+			
 			{
 				"Type" : "PrivateSettings",
 				"SuperUserAppTime" : "2020-09-01 20:01:00"
