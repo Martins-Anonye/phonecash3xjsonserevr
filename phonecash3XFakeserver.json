@@ -13,11 +13,10 @@
 				"ThreeDown" : "ca-app-pub-8880644001869511/7295891735",
 				"ThreeUp" : "ca-app-pub-8880644001869511/6660810376",
 				"TwoUp" : "ca-app-pub-8880644001869511/1113626769"
-
 			},
 			{
 				"Type" : "Interstitial",
-				 "Five" : "ca-app-pub-8880644001869511/4034647031",
+				"Five" : "ca-app-pub-8880644001869511/4034647031",
 				"Four" : "ca-app-pub-8880644001869511/6174381751",
 				"One" : "ca-app-pub-8880644001869511/3141477580",
 				"Six" : "ca-app-pub-8880644001869511/5885455767",
@@ -39,8 +38,8 @@
 			},
 			{
 				"Type" : "YoutubeVideos",
-				 "VideoLinkEight" : "https://youtu.be/EWNrJ6gMEIY?list=PL8QLuwiD_oo2zfJhbGKmT6H3jaUuhDxpj",
-                                 "VideoLinkEleven" : "https://youtu.be/nQSZjJQif0w?list=PL8QLuwiD_oo30oQS-ZPTe_bZW5JMO3xbg",
+				"VideoLinkEight" : "https://youtu.be/EWNrJ6gMEIY?list=PL8QLuwiD_oo2zfJhbGKmT6H3jaUuhDxpj",
+				"VideoLinkEleven" : "https://youtu.be/nQSZjJQif0w?list=PL8QLuwiD_oo30oQS-ZPTe_bZW5JMO3xbg",
 				"VideoLinkFive" : "https://youtu.be/DVpKhmAozvo?list=PL8QLuwiD_oo2zfJhbGKmT6H3jaUuhDxpj",
 				"VideoLinkFour" : "https://youtu.be/sJiaeJCfkOo?list=PL8QLuwiD_oo2zfJhbGKmT6H3jaUuhDxpj",
 				"VideoLinkNine" : "https://youtu.be/RkfqpegApDI?list=PL8QLuwiD_oo2zfJhbGKmT6H3jaUuhDxpj",
@@ -51,21 +50,20 @@
 				"VideoLinkThree" : "https://youtu.be/wsghDsJWxqA?list=PL8QLuwiD_oo2zfJhbGKmT6H3jaUuhDxpj",
 				"VideoLinkTwelve" : "https://youtu.be/hFxm1fd4M_0?list=PL8QLuwiD_oo30oQS-ZPTe_bZW5JMO3xbg",
 				"VideoLinkTwo" : "https://youtu.be/fM3VheQgOQY?list=PL8QLuwiD_oo2zfJhbGKmT6H3jaUuhDxpj"
-
 			},
 			{
 				"Type" : "YoutubeChannel",
-				 "chaneldescription" : "entertainment, funny,sport and educative channel subscribe for more videos",
+				"chaneldescription" : "entertainment, funny,sport and educative channel subscribe for more videos",
 				"channellink" : "https://www.Youtube.com/c/KNOWLEDGEISPOWER9",
 				"targetedAudianc" : "Churches"
-
 			},
 			{
 				"Type" : "PrivateSettings",
 				"SuperUserAppTime" : "2020-09-01 20:01:00"
 			}
 		]
-},{
+	},
+	{
 		"anonyelevi1988" : [
 			{
 				"Type" : "BANNER",
@@ -82,7 +80,7 @@
 			},
 			{
 				"Type" : "Interstitial",
-				 "Five" : "ca-app-pub-1988448440413276/8803243662",
+				"Five" : "ca-app-pub-1988448440413276/8803243662",
 				"Four" : "ca-app-pub-1988448440413276/2265755475",
 				"One" : "ca-app-pub-1988448440413276/6778703797",
 				"Six" : "ca-app-pub-1988448440413276/9499347855",
@@ -103,62 +101,56 @@
 				"Ten" : "other10"
 			},
 			{
-				
 				"Type" : "YoutubeVideos",
-				 "VideoLinkEight" : "https://youtu.be/HNQ3YhjWr-k",
-                                 "VideoLinkEleven" :"https://youtu.be/HNQ3YhjWr-k",
+				"VideoLinkEight" : "https://youtu.be/HNQ3YhjWr-k",
+				"VideoLinkEleven" : "https://youtu.be/HNQ3YhjWr-k",
 				"VideoLinkFive" : "https://youtu.be/HNQ3YhjWr-k",
 				"VideoLinkFour" : "https://youtu.be/HNQ3YhjWr-k",
-				"VideoLinkNine" :"https://youtu.be/HNQ3YhjWr-k",
+				"VideoLinkNine" : "https://youtu.be/HNQ3YhjWr-k",
 				"VideoLinkOne" : "https://youtu.be/tu6dhwpzhRs",
-				"VideoLinkSeven" :"https://youtu.be/HNQ3YhjWr-k",
+				"VideoLinkSeven" : "https://youtu.be/HNQ3YhjWr-k",
 				"VideoLinkSix" : "https://youtu.be/HNQ3YhjWr-k",
-				"VideoLinkTen" :"https://youtu.be/HNQ3YhjWr-k",
+				"VideoLinkTen" : "https://youtu.be/HNQ3YhjWr-k",
 				"VideoLinkThree" : "https://youtu.be/HNQ3YhjWr-k",
-				"VideoLinkTwelve" :"https://youtu.be/HNQ3YhjWr-k",
+				"VideoLinkTwelve" : "https://youtu.be/HNQ3YhjWr-k",
 				"VideoLinkTwo" : "https://youtu.be/HNQ3YhjWr-k"
 			},
 			{
 				"Type" : "YoutubeChannel",
-			
-                                  "chaneldescription" : "Best Sports and Movies  Around the World. Best Movies and Sports ever existed including  old , new and latest.",
-                  		 "channellink" : "https://www.youtube.com/channel/UCvKVPLj9wojuMkRrOBd85Og",
-       				 "targetedAudianc" : "EveryBody"
-             },
-			
+				"chaneldescription" : "Best Sports and Movies  Around the World. Best Movies and Sports ever existed including  old , new and latest.",
+				"channellink" : "https://www.youtube.com/channel/UCvKVPLj9wojuMkRrOBd85Og",
+				"targetedAudianc" : "EveryBody"
+			},
 			{
 				"Type" : "PrivateSettings",
 				"SuperUserAppTime" : "2020-09-01 20:01:00"
 			}
 		]
-
-},
- {
-		"Philip1234" : [
+	},
+	{
+		"Mosco102" : [
 			{
 				"Type" : "BANNER",
-				"AutoBanner" : "Jesus is loard",
-				"FiveUp" : "Philip1234 in the word",
-				"FourDown" : "Fly",
-				"FourUp" : "pussy",
-				"OneDown" : "Moess is his disciple",
-				"OneUp" : "messy Fish",
-				"ThreeDown" : "fucker",
-				"ThreeUp" : "Management makers",
-				"TwoUp" : "Are You ok"
+				"AutoBanner" : "ca-app-pub-5306907478578951/9069335881",
+				"FiveDown" : "ca-app-pub-5306907478578951/5321662568",
+				"FiveUp" : "ca-app-pub-5306907478578951/6634744237",
+				"FourDown" : "ca-app-pub-5306907478578951/5356772846",
+				"FourUp" : "ca-app-pub-5306907478578951/5159022793",
+				"OneDown" : "ca-app-pub-5306907478578951/9323938017",
+				"OneUp" : "ca-app-pub-5306907478578951/7080918057",
+				"ThreeDown" : "ca-app-pub-5306907478578951/9487589541",
+				"ThreeUp" : "ca-app-pub-5306907478578951/8557651252",
+				"TwoUp" : "ca-app-pub-5306907478578951/4420656195",
+				"TwoDown" : "ca-app-pub-5306907478578951/8557651252"
 			},
 			{
 				"Type" : "Interstitial",
-				"One" : "int1",
-				"Two" : "int2",
-				"Three" : "int3",
-				"Four" : "int4",
-				"Five" : "int5",
-				"Six" : "int6",
-				"Seven" : "int7",
-				"Eight" : "int8",
-				"Nine" : "in9",
-				"Ten" : "int10"
+				"Five" : "ca-app-pub-5306907478578951/5485314094",
+				"Four" : "ca-app-pub-5306907478578951/4499535486",
+				"One" : "ca-app-pub-5306907478578951/4882678864",
+				"Six" : "ca-app-pub-5306907478578951/8247208808",
+				"Three" : "ca-app-pub-5306907478578951/3378025501",
+				"Two" : "ca-app-pub-5306907478578951/8630352182"
 			},
 			{
 				"Type" : "OtherBizLnk",
@@ -175,57 +167,55 @@
 			},
 			{
 				"Type" : "YoutubeVideos",
-				"One" : "Ytv1",
-				"Two" : "Ytv2",
-				"Three" : "Ytv3",
-				"Four" : "Ytv4",
-				"Five" : "Ytv5",
-				"Six" : "Ytv6",
-				"Seven" : "Ytv7",
-				"Eight" : "Ytv8",
-				"Nine" : "Ytv9",
-				"Ten" : "Ytv10",
-				"Eleven" : "Ytv11",
-				"Twelve" : "Ytv12"
+				"VideoLinkEight" : "https://youtu.be/sBui6LZ1-b8",
+				"VideoLinkEleven" : "https://youtu.be/4VBN78qsNbA",
+				"VideoLinkFive" : "https://youtu.be/sBui6LZ1-b8",
+				"VideoLinkFour" : "https://youtu.be/4VBN78qsNbA",
+				"VideoLinkNine" : "https://youtu.be/sBui6LZ1-b8",
+				"VideoLinkOne" : "https://youtu.be/sBui6LZ1-b8",
+				"VideoLinkSeven" : "https://youtu.be/sBui6LZ1-b8",
+				"VideoLinkSix" : "https://youtu.be/4VBN78qsNbA",
+				"VideoLinkTen" : "https://youtu.be/sBui6LZ1-b8",
+				"VideoLinkThree" : "https://youtu.be/4VBN78qsNbA",
+				"VideoLinkTwelve" : "https://youtu.be/sBui6LZ1-b8",
+				"VideoLinkTwo" : "https://youtu.be/4VBN78qsNbA"
 			},
 			{
 				"Type" : "YoutubeChannel",
-				"ChannelDescribtion" : "Cdd",
-				"ChnanelLink" : "Cdl",
-				"TargetedAudiance" : "TA1"
+				"chaneldescription" : "the best all, were all  human race see the present and  future.....",
+				"channellink" : "https://www.youtube.com/channel/UCmghygQEcaWmbmERyvIhc5Q",
+				"targetedAudianc" : "EveryBody"
 			},
 			{
 				"Type" : "PrivateSettings",
 				"SuperUserAppTime" : "2020-09-01 20:01:00"
 			}
 		]
-},
-{
-		"Moses1234" : [
+	},
+	{
+		"Sec08" : [
 			{
 				"Type" : "BANNER",
-				"AutoBanner" : "Jesus is loard",
-				"FiveUp" : "Philip1234 in the word",
-				"FourDown" : "Fly",
-				"FourUp" : "pussy",
-				"OneDown" : "Moess is his disciple",
-				"OneUp" : "messy Fish",
-				"ThreeDown" : "fucker",
-				"ThreeUp" : "Management makers",
-				"TwoUp" : "Are You ok"
+				"AutoBanner" : "ca-app-pub-6212028386739392/8151195834",
+        "FiveDown" : "ca-app-pub-6212028386739392/8725910903",
+        "FiveUp" : "ca-app-pub-6212028386739392/2352074240",
+        "FourDown" : "ca-app-pub-6212028386739392/7397900253",
+        "FourUp" : "ca-app-pub-6212028386739392/3856727605",
+        "OneDown" : "ca-app-pub-6212028386739392/9520311346",
+        "OneUp" : "ca-app-pub-6212028386739392/8534532732",
+        "ThreeDown" : "ca-app-pub-6212028386739392/9312427785",
+        "ThreeUp" : "ca-app-pub-6212028386739392/8179115998",
+        "TwoDown" : "ca-app-pub-6212028386739392/1192418704",
+        "TwoUp" : "ca-app-pub-6212028386739392/9454052101"
 			},
 			{
 				"Type" : "Interstitial",
-				"One" : "int1",
-				"Two" : "int2",
-				"Three" : "int3",
-				"Four" : "int4",
-				"Five" : "int5",
-				"Six" : "int6",
-				"Seven" : "int7",
-				"Eight" : "int8",
-				"Nine" : "in9",
-				"Ten" : "int10"
+				 "Five" : "ca-app-pub-6212028386739392/1398278745",
+        "Four" : "ca-app-pub-6212028386739392/6071827401",
+        "One" : "ca-app-pub-6212028386739392/7001959213",
+        "Six" : "ca-app-pub-6212028386739392/3721544974",
+        "Three" : "ca-app-pub-6212028386739392/8889562430",
+        "Two" : "ca-app-pub-6212028386739392/6810387524"
 			},
 			{
 				"Type" : "OtherBizLnk",
@@ -242,24 +232,24 @@
 			},
 			{
 				"Type" : "YoutubeVideos",
-				"One" : "Ytv1",
-				"Two" : "Ytv2",
-				"Three" : "Ytv3",
-				"Four" : "Ytv4",
-				"Five" : "Ytv5",
-				"Six" : "Ytv6",
-				"Seven" : "Ytv7",
-				"Eight" : "Ytv8",
-				"Nine" : "Ytv9",
-				"Ten" : "Ytv10",
-				"Eleven" : "Ytv11",
-				"Twelve" : "Ytv12"
+				"VideoLinkEight" : "https://www.youtube.com/watch?v=8NBA0E-QsSE&t=7s",
+				"VideoLinkEleven" : "https://www.youtube.com/watch?v=AdDsk7j7yYA",
+				"VideoLinkFive" : "https://www.youtube.com/watch?v=8NBA0E-QsSE&t=7s",
+				"VideoLinkFour" : "https://www.youtube.com/watch?v=AdDsk7j7yYA",
+				"VideoLinkNine" : "https://www.youtube.com/watch?v=8NBA0E-QsSE&t=7s",
+				"VideoLinkOne" : "https://www.youtube.com/watch?v=8NBA0E-QsSE&t=7s",
+				"VideoLinkSeven" : "https://www.youtube.com/watch?v=AdDsk7j7yYA",
+				"VideoLinkSix" : "https://www.youtube.com/watch?v=8NBA0E-QsSE&t=7s",
+				"VideoLinkTen" : "https://www.youtube.com/watch?v=AdDsk7j7yYA",
+				"VideoLinkThree" : "https://www.youtube.com/watch?v=8NBA0E-QsSE&t=7s",
+				"VideoLinkTwelve" : "https://www.youtube.com/watch?v=AdDsk7j7yYA",
+				"VideoLinkTwo" : "https://www.youtube.com/watch?v=8NBA0E-QsSE&t=7s"
 			},
 			{
 				"Type" : "YoutubeChannel",
-				"ChannelDescribtion" : "Cdd",
-				"ChnanelLink" : "Cdl",
-				"TargetedAudiance" : "TA1"
+				"chaneldescription" : "PathfinderRealityShow,This channel will provide reality contents that concerns everybody, by reality contents means,life of youths, married, marketers , business men/women and so on.",
+        "channellink" : "https://www.youtube.com/channel/UCFAwUBp6TCkttaOIimqjO-Q",
+        "targetedAudianc" : "EveryBody"
 			},
 			{
 				"Type" : "PrivateSettings",
