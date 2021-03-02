@@ -197,25 +197,25 @@
 			{
 				"Type" : "BANNER",
 				"AutoBanner" : "ca-app-pub-6212028386739392/8151195834",
-        "FiveDown" : "ca-app-pub-6212028386739392/8725910903",
-        "FiveUp" : "ca-app-pub-6212028386739392/2352074240",
-        "FourDown" : "ca-app-pub-6212028386739392/7397900253",
-        "FourUp" : "ca-app-pub-6212028386739392/3856727605",
-        "OneDown" : "ca-app-pub-6212028386739392/9520311346",
-        "OneUp" : "ca-app-pub-6212028386739392/8534532732",
-        "ThreeDown" : "ca-app-pub-6212028386739392/9312427785",
-        "ThreeUp" : "ca-app-pub-6212028386739392/8179115998",
-        "TwoDown" : "ca-app-pub-6212028386739392/1192418704",
-        "TwoUp" : "ca-app-pub-6212028386739392/9454052101"
+				"FiveDown" : "ca-app-pub-6212028386739392/8725910903",
+				"FiveUp" : "ca-app-pub-6212028386739392/2352074240",
+				"FourDown" : "ca-app-pub-6212028386739392/7397900253",
+				"FourUp" : "ca-app-pub-6212028386739392/3856727605",
+				"OneDown" : "ca-app-pub-6212028386739392/9520311346",
+				"OneUp" : "ca-app-pub-6212028386739392/8534532732",
+				"ThreeDown" : "ca-app-pub-6212028386739392/9312427785",
+				"ThreeUp" : "ca-app-pub-6212028386739392/8179115998",
+				"TwoDown" : "ca-app-pub-6212028386739392/1192418704",
+				"TwoUp" : "ca-app-pub-6212028386739392/9454052101"
 			},
 			{
 				"Type" : "Interstitial",
-				 "Five" : "ca-app-pub-6212028386739392/1398278745",
-        "Four" : "ca-app-pub-6212028386739392/6071827401",
-        "One" : "ca-app-pub-6212028386739392/7001959213",
-        "Six" : "ca-app-pub-6212028386739392/3721544974",
-        "Three" : "ca-app-pub-6212028386739392/8889562430",
-        "Two" : "ca-app-pub-6212028386739392/6810387524"
+				"Five" : "ca-app-pub-6212028386739392/1398278745",
+				"Four" : "ca-app-pub-6212028386739392/6071827401",
+				"One" : "ca-app-pub-6212028386739392/7001959213",
+				"Six" : "ca-app-pub-6212028386739392/3721544974",
+				"Three" : "ca-app-pub-6212028386739392/8889562430",
+				"Two" : "ca-app-pub-6212028386739392/6810387524"
 			},
 			{
 				"Type" : "OtherBizLnk",
@@ -248,8 +248,73 @@
 			{
 				"Type" : "YoutubeChannel",
 				"chaneldescription" : "PathfinderRealityShow,This channel will provide reality contents that concerns everybody, by reality contents means,life of youths, married, marketers , business men/women and so on.",
-        "channellink" : "https://www.youtube.com/channel/UCFAwUBp6TCkttaOIimqjO-Q",
-        "targetedAudianc" : "EveryBody"
+				"channellink" : "https://www.youtube.com/channel/UCFAwUBp6TCkttaOIimqjO-Q",
+				"targetedAudianc" : "EveryBody"
+			},
+			{
+				"Type" : "PrivateSettings",
+				"SuperUserAppTime" : "2020-09-01 20:01:00"
+			}
+		]
+	},
+	{
+		"Michael042" : [
+			{
+				"Type" : "BANNER",
+				"AutoBanner" : "ca-app-pub-7555416009024544/7268981709",
+				"FiveDown" : "ca-app-pub-7555416009024544/3926285451",
+				"FiveUp" : "ca-app-pub-7555416009024544/1491693800",
+				"FourDown" : "ca-app-pub-7555416009024544/8057102159",
+				"FourUp" : "ca-app-pub-7555416009024544/4217628179",
+				"OneDown" : "ca-app-pub-7555416009024544/5278061421",
+				"OneUp" : "ca-app-pub-7555416009024544/6746237520",
+				"ThreeDown" : "ca-app-pub-7555416009024544/7318735553",
+				"ThreeUp" : "ca-app-pub-7555416009024544/2449552259",
+				"TwoDown" : "ca-app-pub-7555416009024544/6586439512",
+				"TwoUp" : "ca-app-pub-7555416009024544/4435946566"
+			},
+			{
+				"Type" : "Interstitial",
+				"Five" : "ca-app-pub-7555416009024544/1334112831",
+				"Four" : "ca-app-pub-7555416009024544/8029181995",
+				"One" : "ca-app-pub-7555416009024544/3159998696",
+				"Six" : "ca-app-pub-7555416009024544/8423293039",
+				"Three" : "ca-app-pub-7555416009024544/2968427005",
+				"Two" : "ca-app-pub-7555416009024544/1846917026"
+			},
+			{
+				"Type" : "OtherBizLnk",
+				"One" : "Other1",
+				"Two" : "other2",
+				"Three" : "other3",
+				"Four" : "other4",
+				"Five" : "other5",
+				"Six" : "other6",
+				"Seven" : "other7",
+				"Eight" : "other8",
+				"Nine" : "other9",
+				"Ten" : "other10"
+			},
+			{
+				"Type" : "YoutubeVideos",
+				"VideoLinkEight" : "https://youtu.be/8FLLxGB7zLw",
+				"VideoLinkEleven" : "https://youtu.be/DSSPX-09vXE",
+				"VideoLinkFive" : "https://youtu.be/WGAC_5VI_1s",
+				"VideoLinkFour" : "https://youtu.be/8FLLxGB7zLw",
+				"VideoLinkNine" : "https://youtu.be/8FLLxGB7zLw",
+				"VideoLinkOne" : "https://youtu.be/bxBudmNYAto",
+				"VideoLinkSeven" : "https://youtu.be/8FLLxGB7zLw",
+				"VideoLinkSix" : "https://youtu.be/bxBudmNYAto",
+				"VideoLinkTen" : "https://youtu.be/bxBudmNYAto",
+				"VideoLinkThree" : "https://youtu.be/sjyTHTV5RoU",
+				"VideoLinkTwelve" : "https://youtu.be/sjyTHTV5RoU",
+				"VideoLinkTwo" : "https://youtu.be/DSSPX-09vXE"
+			},
+			{
+				"Type" : "YoutubeChannel",
+				"chaneldescription" : "New stuff around the world including sports, show and life events",
+				"channellink" : "https://youtube.com/channel/UC-RCd_456epJ74AsOma8AsA",
+				"targetedAudianc" : "EveryBody"
 			},
 			{
 				"Type" : "PrivateSettings",
