@@ -321,5 +321,70 @@
 				"SuperUserAppTime" : "2020-09-01 20:01:00"
 			}
 		]
+	},
+	{
+		"Martins3x" : [
+			{
+				"Type" : "BANNER",
+				"AutoBanner" : "ca-app-pub-2789057166231954/2654841473",
+				"FiveDown" : "ca-app-pub-2789057166231954/7907168159",
+				"FiveUp" : "ca-app-pub-2789057166231954/1533331495",
+				"FourDown" : "ca-app-pub-2789057166231954/5864841632",
+				"FourUp" : "ca-app-pub-2789057166231954/8491004973",
+				"OneDown" : "ca-app-pub-2789057166231954/4252377067",
+				"OneUp" : "ca-app-pub-2789057166231954/3322438771",
+				"ThreeDown" : "ca-app-pub-2789057166231954/9804086644",
+				"ThreeUp" : "ca-app-pub-2789057166231954/3904892706",
+				"TwoDown" : "ca-app-pub-2789057166231954/4488358392",
+				"TwoUp" : "ca-app-pub-2789057166231954/6686968719"
+			},
+			{
+				"Type" : "Interstitial",
+				"Five" : "ca-app-pub-2789057166231954/4902279602",
+				"Four" : "ca-app-pub-2789057166231954/1154606284",
+				"One" : "ca-app-pub-2789057166231954/7879247997",
+				"Six" : "ca-app-pub-2789057166231954/7903298725",
+				"Three" : "ca-app-pub-2789057166231954/3780769624",
+				"Two" : "ca-app-pub-2789057166231954/2295748824"
+			},
+			{
+				"Type" : "OtherBizLnk",
+				"One" : "Other1",
+				"Two" : "other2",
+				"Three" : "other3",
+				"Four" : "other4",
+				"Five" : "other5",
+				"Six" : "other6",
+				"Seven" : "other7",
+				"Eight" : "other8",
+				"Nine" : "other9",
+				"Ten" : "other10"
+			},
+			{
+				"Type" : "YoutubeVideos",
+				"VideoLinkEight" : "https://youtu.be/Ow9AFqLy04w",
+				"VideoLinkEleven" : "https://youtu.be/DSSPX-09vXE",
+				"VideoLinkFive" : "https://youtu.be/j9DWvCdOweU",
+				"VideoLinkFour" : "https://youtu.be/Ow9AFqLy04w",
+				"VideoLinkNine" : "https://youtu.be/j9DWvCdOweU",
+				"VideoLinkOne" : "https://youtu.be/j9DWvCdOweU",
+				"VideoLinkSeven" : "https://youtu.be/j9DWvCdOweU",
+				"VideoLinkSix" : "https://youtu.be/Ow9AFqLy04w",
+				"VideoLinkTen" : "https://youtu.be/Ow9AFqLy04w",
+				"VideoLinkThree" : "https://youtu.be/j9DWvCdOweU",
+				"VideoLinkTwelve" : "https://youtu.be/sjyTHTV5RoU",
+				"VideoLinkTwo" : "https://youtu.be/Ow9AFqLy04w"
+			},
+			{
+				"Type" : "YoutubeChannel",
+				"chaneldescription" : "Super deliverance, Super expression of Gods power, Voicing Gospel of Christ to the whole world by Singing, Preaching and calling  down the power of GOD.",
+				"channellink" : "https://www.youtube.com/channel/UCLe_s80piJIgo9Eq-ROpq-A",
+				"targetedAudianc" : "Christians"
+			},
+			{
+				"Type" : "PrivateSettings",
+				"SuperUserAppTime" : "2020-09-01 20:01:00"
+			}
+		]
 	}
 ]
