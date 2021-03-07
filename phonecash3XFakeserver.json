@@ -363,7 +363,7 @@
 			{
 				"Type" : "YoutubeVideos",
 				"VideoLinkEight" : "https://youtu.be/Ow9AFqLy04w",
-				"VideoLinkEleven" : "https://youtu.be/DSSPX-09vXE",
+				"VideoLinkEleven" : "https://youtu.be/j9DWvCdOweU",
 				"VideoLinkFive" : "https://youtu.be/j9DWvCdOweU",
 				"VideoLinkFour" : "https://youtu.be/Ow9AFqLy04w",
 				"VideoLinkNine" : "https://youtu.be/j9DWvCdOweU",
@@ -372,7 +372,7 @@
 				"VideoLinkSix" : "https://youtu.be/Ow9AFqLy04w",
 				"VideoLinkTen" : "https://youtu.be/Ow9AFqLy04w",
 				"VideoLinkThree" : "https://youtu.be/j9DWvCdOweU",
-				"VideoLinkTwelve" : "https://youtu.be/sjyTHTV5RoU",
+				"VideoLinkTwelve" : "https://youtu.be/Ow9AFqLy04w",
 				"VideoLinkTwo" : "https://youtu.be/Ow9AFqLy04w"
 			},
 			{
@@ -380,6 +380,70 @@
 				"chaneldescription" : "Super deliverance, Super expression of Gods power, Voicing Gospel of Christ to the whole world by Singing, Preaching and calling  down the power of GOD.",
 				"channellink" : "https://www.youtube.com/channel/UCLe_s80piJIgo9Eq-ROpq-A",
 				"targetedAudianc" : "Christians"
+			},
+			{
+				"Type" : "PrivateSettings",
+				"SuperUserAppTime" : "2020-09-01 20:01:00"
+			}
+		]
+	},
+	{
+		"Autorize1" : [
+			{
+				"Type" : "BANNER",
+				"AutoBanner" : "ca-app-pub-4183049776998084/6009325251",
+				"FiveDown" : "ca-app-pub-4183049776998084/1438351390",
+				"FiveUp" : "ca-app-pub-4183049776998084/4943655595",
+				"FourDown" : "ca-app-pub-4183049776998084/4172325940",
+				"FourUp" : "ca-app-pub-4183049776998084/6798489283",
+				"OneDown" : "ca-app-pub-4183049776998084/2728555795",
+				"OneUp" : "ca-app-pub-4183049776998084/4256086428",
+				"ThreeDown" : "ca-app-pub-4183049776998084/2040986620",
+				"ThreeUp" : "ca-app-pub-4183049776998084/1195982275",
+				"TwoUp" : "ca-app-pub-4183049776998084/2509063941"
+			},
+			{
+				"Type" : "Interstitial",
+				"Five" : "ca-app-pub-4183049776998084/3606006272",
+				"Four" : "ca-app-pub-4183049776998084/1354590918",
+				"One" : "ca-app-pub-4183049776998084/6009325251",
+				"Six" : "ca-app-pub-4183049776998084/9979842935",
+				"Three" : "ca-app-pub-4183049776998084/3247430543",
+				"Two" : "ca-app-pub-4183049776998084/5873593889"
+			},
+			{
+				"Type" : "OtherBizLnk",
+				"Five" : "https://oziseff.com.ng/user/register",
+				"Four" : "https://samicsub.com/user/register/eyJpdiI6IjZUeVl2NmQrY0h5eWpQbHpYdiszcFE9PSIsInZhbHVlIjoiYUNQcjk4cFdEd1wvNTNJcUlseHpsTHc9PSIsIm1hYyI6ImU2OGM0NmFlNmMwYTg4Zjk3NmQ5ODZjMWFiODRkM2M0ZDYxZDVhOTQ0OWJlZTU1MDY5Njc5ZGEzY2U5Zjc2NjQifQ==",
+				"One" : "https://www.VTUKONNECT.com?referal=Autorize1",
+				"Six" : "https://www.subarena.com?referal=Autorize1",
+				"Three" : "https://racksterli.com/affiliate?id=72819",
+				"Two" : "https://www.topupandgetreward.com/register?referralid=Autorize1",
+				"Seven" : "other7",
+				"Eight" : "other8",
+				"Nine" : "other9",
+				"Ten" : "other10"
+			},
+			{
+				"Type" : "YoutubeVideos",
+				"VideoLinkEight" : "https://youtu.be/gcZefL6vZRo",
+				"VideoLinkEleven" : "https://youtu.be/gcZefL6vZRo",
+				"VideoLinkFive" : "https://youtu.be/LiKaO1HbZwU",
+				"VideoLinkFour" : "https://youtu.be/gcZefL6vZRo",
+				"VideoLinkNine" : "https://youtu.be/LiKaO1HbZwU",
+				"VideoLinkOne" : "https://youtu.be/LiKaO1HbZwU",
+				"VideoLinkSeven" : "https://youtu.be/LiKaO1HbZwU",
+				"VideoLinkSix" : "https://youtu.be/gcZefL6vZRo",
+				"VideoLinkTen" : "https://youtu.be/gcZefL6vZRo",
+				"VideoLinkThree" : "https://youtu.be/LiKaO1HbZwU",
+				"VideoLinkTwelve" : "https://youtu.be/LiKaO1HbZwU",
+				"VideoLinkTwo" : "https://youtu.be/gcZefL6vZRo"
+			},
+			{
+				"Type" : "YoutubeChannel",
+				"chaneldescription" : "True behind the scene",
+				"channellink" : "https://youtu.be/LiKaO1HbZwU",
+				"targetedAudianc" : "EveryBody"
 			},
 			{
 				"Type" : "PrivateSettings",
