@@ -232,23 +232,23 @@
 			},
 			{
 				"Type" : "YoutubeVideos",
-				"VideoLinkEight" : "https://www.youtube.com/watch?v=8NBA0E-QsSE&t=7s",
+				"VideoLinkEight" : "https://youtu.be/JF7gIOsDg6o",
 				"VideoLinkEleven" : "https://www.youtube.com/watch?v=AdDsk7j7yYA",
-				"VideoLinkFive" : "https://www.youtube.com/watch?v=8NBA0E-QsSE&t=7s",
-				"VideoLinkFour" : "https://www.youtube.com/watch?v=AdDsk7j7yYA",
+				"VideoLinkFive" : "https://youtu.be/xyWOFGe7yPM",
+				"VideoLinkFour" : "https://youtu.be/BG9vlEIcDaQ",
 				"VideoLinkNine" : "https://www.youtube.com/watch?v=8NBA0E-QsSE&t=7s",
-				"VideoLinkOne" : "https://www.youtube.com/watch?v=8NBA0E-QsSE&t=7s",
-				"VideoLinkSeven" : "https://www.youtube.com/watch?v=AdDsk7j7yYA",
-				"VideoLinkSix" : "https://www.youtube.com/watch?v=8NBA0E-QsSE&t=7s",
+				"VideoLinkOne" : "https://youtu.be/3W6fGTeQBwI",
+				"VideoLinkSeven" : "https://youtu.be/VCleJu6CxAE",
+				"VideoLinkSix" : "https://youtu.be/ksIxyAvgZ7U",
 				"VideoLinkTen" : "https://www.youtube.com/watch?v=AdDsk7j7yYA",
-				"VideoLinkThree" : "https://www.youtube.com/watch?v=8NBA0E-QsSE&t=7s",
+				"VideoLinkThree" : "https://youtu.be/y4foEsav4D4",
 				"VideoLinkTwelve" : "https://www.youtube.com/watch?v=AdDsk7j7yYA",
-				"VideoLinkTwo" : "https://www.youtube.com/watch?v=8NBA0E-QsSE&t=7s"
+				"VideoLinkTwo" : "https://youtu.be/kuFqmmOGzPw"
 			},
 			{
 				"Type" : "YoutubeChannel",
-				"chaneldescription" : "PathfinderRealityShow,This channel will provide reality contents that concerns everybody, by reality contents means,life of youths, married, marketers , business men/women and so on.",
-				"channellink" : "https://www.youtube.com/channel/UCFAwUBp6TCkttaOIimqjO-Q",
+				"chaneldescription" : "Super show, bringing the world closer to you",
+				"channellink" : "https://www.youtube.com/channel/UCaQEingfw4sNLUWEi62wD5w",
 				"targetedAudianc" : "EveryBody"
 			},
 			{
